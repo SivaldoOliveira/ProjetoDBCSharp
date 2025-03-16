@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\SimpleGameApi",
+    "\\SimpleGameApi\\SimpleGameApi",
+    "\\SimpleGameApi\\SimpleGameApi\\Controllers"
+  ],
+  "SelectedNode": "\\SimpleGameApi\\SimpleGameApi\\Controllers\\WeatherForecastController.cs",
+  "PreviewInSolutionExplorer": false
+}
