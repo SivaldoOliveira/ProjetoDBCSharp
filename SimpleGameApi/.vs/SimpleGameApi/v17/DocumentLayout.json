@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,19 +27,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "SimpleGameApi\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "SimpleGameApi\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T20:00:53.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Program.cs",
               "RelativeDocumentMoniker": "SimpleGameApi\\Program.cs",
@@ -51,11 +34,12 @@
               "RelativeToolTip": "SimpleGameApi\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T19:57:42.564Z"
+              "WhenOpened": "2024-12-31T19:57:42.564Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\appsettings.json",
               "RelativeDocumentMoniker": "SimpleGameApi\\appsettings.json",
@@ -67,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "SimpleGameApi\\Properties\\launchSettings.json",
