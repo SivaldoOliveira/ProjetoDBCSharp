@@ -42,8 +42,7 @@
               "RelativeToolTip": "SimpleGameApi\\Controllers\\Models\\Domain\\Contracts\\Base\\IGenericService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T00:26:40.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T00:26:40.671Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "SimpleGameApi\\Controllers\\Models\\Domain\\Contracts\\Services\\IVendaService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T00:24:40.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T00:24:40.054Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "SimpleGameApi\\Controllers\\Models\\Domain\\Contracts\\Services\\IAluguelService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T00:23:35.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T00:23:35.502Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "SimpleGameApi\\Controllers\\Models\\Domain\\Contracts\\Services\\IEstoqueService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T00:21:57.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T00:21:57.546Z"
             }
           ]
         }
