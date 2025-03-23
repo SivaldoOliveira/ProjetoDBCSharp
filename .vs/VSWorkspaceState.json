@@ -1,17 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-<<<<<<< HEAD
-    "\\.github",
     "\\SimpleGameApi",
     "\\SimpleGameApi\\SimpleGameApi",
-    "\\SimpleGameApi\\SimpleGameApi\\Controllers"
+    "\\SimpleGameApi\\SimpleGameApi\\Controllers\\Models"
   ],
-  "SelectedNode": "\\SimpleGameApi\\SimpleGameApi\\Controllers\\WeatherForecastController.cs",
-=======
-    "\\SimpleGameApi",
-    "\\SimpleGameApi\\SimpleGameApi"
-  ],
->>>>>>> aula-07/interfaces-base
+  "SelectedNode": "\\SimpleGameApi\\SimpleGameApi.sln",
   "PreviewInSolutionExplorer": false
 }

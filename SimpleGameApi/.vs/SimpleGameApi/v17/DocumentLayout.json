@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "SimpleGameApi\\Program.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Program.cs",
               "RelativeToolTip": "SimpleGameApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T23:52:48.722Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "SimpleGameApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-19T23:49:50.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T23:49:50.34Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "SimpleGameApi\\appsettings.Development.json",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-19T23:49:43.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T23:49:43.989Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "SimpleGameApi\\Controllers\\Models\\Domain\\Configuration\\Startup.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T23:43:30.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T23:43:30.843Z"
             }
           ]
         }
