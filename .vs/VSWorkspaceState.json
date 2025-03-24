@@ -3,8 +3,12 @@
     "",
     "\\SimpleGameApi",
     "\\SimpleGameApi\\SimpleGameApi",
-    "\\SimpleGameApi\\SimpleGameApi\\Controllers\\Models"
+    "\\SimpleGameApi\\SimpleGameApi\\Controllers",
+    "\\SimpleGameApi\\SimpleGameApi\\Controllers\\Models",
+    "\\SimpleGameApi\\SimpleGameApi\\Controllers\\Models\\Infrastructure",
+    "\\SimpleGameApi\\SimpleGameApi\\Controllers\\Models\\Infrastructure\\Data",
+    "\\SimpleGameApi\\SimpleGameApi\\Controllers\\Models\\Infrastructure\\Data\\Repositories"
   ],
-  "SelectedNode": "\\SimpleGameApi\\SimpleGameApi.sln",
+  "SelectedNode": "\\SimpleGameApi\\SimpleGameApi\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
