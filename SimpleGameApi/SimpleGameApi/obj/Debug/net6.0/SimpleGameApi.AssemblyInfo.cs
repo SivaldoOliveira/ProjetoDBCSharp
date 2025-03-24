@@ -14,15 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleGameApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dca9e46aa6950ee834a38772167bedb30116683a")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08baf7c7849ac7c5708fe61e0b706293f426c071")]
->>>>>>> aula-09/dependencias
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c998e7d82d72706e08cff63867fe8681c095983")]
->>>>>>> aula-11/contextos
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6b138f8d98cc2aefd46cba30d2606fa5243e308")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleGameApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleGameApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
