@@ -1,5 +1,7 @@
-﻿
-namespace SimpleGameApi.Controllers.Models.Domain.Configuration;
+﻿using Microsoft.EntityFrameworkCore;
+using SimpleGameApi.Controllers.Models.Infrastructure.Data.Contexts;
+
+namespace SimpleGameApi.Controllers.Models.Configuration;
 
 public static class Startup
 {
@@ -9,13 +11,16 @@ public static class Startup
         ConfigueDependencies(services);
     }
 
-  
+
 
     private static void ConfigureDatabase(IConfiguration configuration, IServiceCollection services)
     {
         var connStr = configuration.GetConnectionString("JogosDb") ??
               throw new ArgumentException("Connectionm String não localizada");
 
+        services.AddDbContext<JogoDbContext>(options =>
+        options.UseSqlServer(connStr));
+        
         //incluir configuração para o contexto do meu EF Core
     }
 
@@ -24,7 +29,7 @@ public static class Startup
         ConfigureRepositories(services);
         ConfigureServices(services);
     }
-       
+
 
     private static void ConfigureRepositories(IServiceCollection services)
     {
