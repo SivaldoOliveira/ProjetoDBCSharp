@@ -3,7 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\",
   "Documents": [
     {
-<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\controllers\\models\\domain\\contracts\\repositories\\ialuguelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\controllers\\models\\domain\\contracts\\repositories\\ialuguelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,14 +17,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\controllers\\models\\infrastructure\\data\\contexts\\jogodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\controllers\\models\\infrastructure\\data\\contexts\\jogodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> aula-11/contextos
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\controllers\\models\\configuration\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\controllers\\models\\configuration\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\controllers\\models\\domain\\configuration\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\controllers\\models\\domain\\configuration\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,16 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
           "SelectedChildIndex": 2,
-=======
-          "SelectedChildIndex": 1,
->>>>>>> aula-11/contextos
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-<<<<<<< HEAD
               "Title": "IAluguelService.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Controllers\\Models\\Domain\\Contracts\\Services\\IAluguelService.cs",
               "RelativeDocumentMoniker": "SimpleGameApi\\Controllers\\Models\\Domain\\Contracts\\Services\\IAluguelService.cs",
@@ -52,8 +50,7 @@
               "RelativeToolTip": "SimpleGameApi\\Controllers\\Models\\Domain\\Contracts\\Services\\IAluguelService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T23:45:35.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T23:45:35.171Z"
             },
             {
               "$type": "Document",
@@ -65,8 +62,7 @@
               "RelativeToolTip": "SimpleGameApi\\Controllers\\Models\\Domain\\Contracts\\Repositories\\IJogoRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T23:43:51.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T23:43:51.109Z"
             },
             {
               "$type": "Document",
@@ -91,8 +87,7 @@
               "RelativeToolTip": "SimpleGameApi\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T23:52:48.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T23:52:48.722Z"
             },
             {
               "$type": "Document",
@@ -121,33 +116,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-=======
->>>>>>> aula-11/contextos
               "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Controllers\\Models\\Configuration\\Startup.cs",
-              "RelativeDocumentMoniker": "SimpleGameApi\\Controllers\\Models\\Configuration\\Startup.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Controllers\\Models\\Configuration\\Startup.cs",
-              "RelativeToolTip": "SimpleGameApi\\Controllers\\Models\\Configuration\\Startup.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBYAAAAIAAAA",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Controllers\\Models\\Domain\\Configuration\\Startup.cs",
+              "RelativeDocumentMoniker": "SimpleGameApi\\Controllers\\Models\\Domain\\Configuration\\Startup.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Controllers\\Models\\Domain\\Configuration\\Startup.cs",
+              "RelativeToolTip": "SimpleGameApi\\Controllers\\Models\\Domain\\Configuration\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
               "WhenOpened": "2025-03-19T23:43:30.843Z"
-=======
-              "WhenOpened": "2025-03-22T01:58:54.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JogoDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Controllers\\Models\\Infrastructure\\Data\\Contexts\\JogoDbContext.cs",
-              "RelativeDocumentMoniker": "SimpleGameApi\\Controllers\\Models\\Infrastructure\\Data\\Contexts\\JogoDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Controllers\\Models\\Infrastructure\\Data\\Contexts\\JogoDbContext.cs",
-              "RelativeToolTip": "SimpleGameApi\\Controllers\\Models\\Infrastructure\\Data\\Contexts\\JogoDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T01:50:10.9Z",
-              "EditorCaption": ""
->>>>>>> aula-11/contextos
             }
           ]
         }
