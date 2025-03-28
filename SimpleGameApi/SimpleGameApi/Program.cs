@@ -1,4 +1,4 @@
-using SimpleGameApi.Controllers.Models.Configuration;
+using SimpleGameApi.Models.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
