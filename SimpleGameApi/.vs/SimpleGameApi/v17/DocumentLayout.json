@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\models\\configuration\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\models\\configuration\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\models\\infrastructure\\data\\repositories\\estoquerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\models\\infrastructure\\data\\repositories\\estoquerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\models\\infrastructure\\data\\repositories\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\models\\infrastructure\\data\\repositories\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Configuration\\Startup.cs",
+              "RelativeDocumentMoniker": "SimpleGameApi\\Models\\Configuration\\Startup.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Configuration\\Startup.cs",
+              "RelativeToolTip": "SimpleGameApi\\Models\\Configuration\\Startup.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwCoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:38:01.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstoqueRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Infrastructure\\Data\\Repositories\\EstoqueRepository.cs",
+              "RelativeDocumentMoniker": "SimpleGameApi\\Models\\Infrastructure\\Data\\Repositories\\EstoqueRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Infrastructure\\Data\\Repositories\\EstoqueRepository.cs",
+              "RelativeToolTip": "SimpleGameApi\\Models\\Infrastructure\\Data\\Repositories\\EstoqueRepository.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T18:53:13.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "JogoRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Infrastructure\\Data\\Repositories\\JogoRepository.cs",
               "RelativeDocumentMoniker": "SimpleGameApi\\Models\\Infrastructure\\Data\\Repositories\\JogoRepository.cs",
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "JogoDbContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Infrastructure\\Data\\Contexts\\JogoDbContext.cs",
               "RelativeDocumentMoniker": "SimpleGameApi\\Models\\Infrastructure\\Data\\Contexts\\JogoDbContext.cs",
@@ -51,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "JogoController.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Controllers\\JogoController.cs",
               "RelativeDocumentMoniker": "SimpleGameApi\\Controllers\\JogoController.cs",

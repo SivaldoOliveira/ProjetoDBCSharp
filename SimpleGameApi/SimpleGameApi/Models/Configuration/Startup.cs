@@ -40,6 +40,7 @@ public static class Startup
     {
         // Incluir dependencias de repositorios
         services.AddScoped<IJogoRepository, JogoRepository>();
+        services.AddScoped<IEstoqueRepository, EstoqueRepository>();
     }
 
     private static void ConfigureServices(IServiceCollection services)
