@@ -54,6 +54,9 @@ public class JogoRepository : IJogoRepository
         var jogoPesquisado = Get(entity.Id);
         if (jogoPesquisado != null)
         {
+            _context.Entry(jogoPesquisado).State = EntityState.Detached;
+             
+
             _context.Entry(entity).State = EntityState.Modified;
             _context.SaveChanges();
             return true;
