@@ -50,5 +50,6 @@ public static class Startup
 
         services.AddScoped<IJogoService, JogoService>();
         services.AddScoped<IEstoqueService, EstoqueService>();
+        services.AddScoped<IVendaService, VendaService>();
     }
 }
