@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\models\\configuration\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\models\\infrastructure\\data\\repositories\\estoquerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\models\\infrastructure\\data\\repositories\\estoquerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\models\\infrastructure\\data\\repositories\\vendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\models\\infrastructure\\data\\repositories\\vendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\models\\infrastructure\\data\\repositories\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\models\\infrastructure\\data\\repositories\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\models\\domain\\enums\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\models\\domain\\enums\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\models\\infrastructure\\data\\contexts\\jogodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\models\\infrastructure\\data\\contexts\\jogodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\models\\infrastructure\\data\\queries\\sqlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\models\\infrastructure\\data\\queries\\sqlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\controllers\\jogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\controllers\\jogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\controllers\\estoquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\controllers\\estoquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|c:\\users\\user\\onedrive\\cursos\\projetodbcsharp\\simplegameapi\\simplegameapi\\models\\infrastructure\\data\\contexts\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7087DAB6-9658-460A-84CC-471AC3C4EE77}|SimpleGameApi\\SimpleGameApi.csproj|solutionrelative:simplegameapi\\models\\infrastructure\\data\\contexts\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +34,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,60 +48,70 @@
               "RelativeDocumentMoniker": "SimpleGameApi\\Models\\Configuration\\Startup.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Configuration\\Startup.cs",
               "RelativeToolTip": "SimpleGameApi\\Models\\Configuration\\Startup.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAgwCoAAABEAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T19:38:01.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EstoqueRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Infrastructure\\Data\\Repositories\\EstoqueRepository.cs",
-              "RelativeDocumentMoniker": "SimpleGameApi\\Models\\Infrastructure\\Data\\Repositories\\EstoqueRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Infrastructure\\Data\\Repositories\\EstoqueRepository.cs",
-              "RelativeToolTip": "SimpleGameApi\\Models\\Infrastructure\\Data\\Repositories\\EstoqueRepository.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAswD8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T18:53:13.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "JogoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Infrastructure\\Data\\Repositories\\JogoRepository.cs",
-              "RelativeDocumentMoniker": "SimpleGameApi\\Models\\Infrastructure\\Data\\Repositories\\JogoRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Infrastructure\\Data\\Repositories\\JogoRepository.cs",
-              "RelativeToolTip": "SimpleGameApi\\Models\\Infrastructure\\Data\\Repositories\\JogoRepository.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAIwDkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T23:14:36.381Z",
+              "WhenOpened": "2025-04-16T15:10:19.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "JogoDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Infrastructure\\Data\\Contexts\\JogoDbContext.cs",
-              "RelativeDocumentMoniker": "SimpleGameApi\\Models\\Infrastructure\\Data\\Contexts\\JogoDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Infrastructure\\Data\\Contexts\\JogoDbContext.cs",
-              "RelativeToolTip": "SimpleGameApi\\Models\\Infrastructure\\Data\\Contexts\\JogoDbContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Title": "SqlManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Infrastructure\\Data\\Queries\\SqlManager.cs",
+              "RelativeDocumentMoniker": "SimpleGameApi\\Models\\Infrastructure\\Data\\Queries\\SqlManager.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Infrastructure\\Data\\Queries\\SqlManager.cs",
+              "RelativeToolTip": "SimpleGameApi\\Models\\Infrastructure\\Data\\Queries\\SqlManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAB6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T23:15:49.349Z"
+              "WhenOpened": "2025-04-15T18:08:14.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "enum.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Domain\\Enums\\enum.cs",
+              "RelativeDocumentMoniker": "SimpleGameApi\\Models\\Domain\\Enums\\enum.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Domain\\Enums\\enum.cs",
+              "RelativeToolTip": "SimpleGameApi\\Models\\Domain\\Enums\\enum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:00:40.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Infrastructure\\Data\\Repositories\\VendaRepository.cs",
+              "RelativeDocumentMoniker": "SimpleGameApi\\Models\\Infrastructure\\Data\\Repositories\\VendaRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Infrastructure\\Data\\Repositories\\VendaRepository.cs",
+              "RelativeToolTip": "SimpleGameApi\\Models\\Infrastructure\\Data\\Repositories\\VendaRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwJMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:52:18.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConnectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Infrastructure\\Data\\Contexts\\ConnectionManager.cs",
+              "RelativeDocumentMoniker": "SimpleGameApi\\Models\\Infrastructure\\Data\\Contexts\\ConnectionManager.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Models\\Infrastructure\\Data\\Contexts\\ConnectionManager.cs",
+              "RelativeToolTip": "SimpleGameApi\\Models\\Infrastructure\\Data\\Contexts\\ConnectionManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:39:00.618Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "JogoController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Controllers\\JogoController.cs",
-              "RelativeDocumentMoniker": "SimpleGameApi\\Controllers\\JogoController.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Controllers\\JogoController.cs",
-              "RelativeToolTip": "SimpleGameApi\\Controllers\\JogoController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAmwDUAAAAAAAAA",
+              "Title": "EstoqueController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Controllers\\EstoqueController.cs",
+              "RelativeDocumentMoniker": "SimpleGameApi\\Controllers\\EstoqueController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\Controllers\\EstoqueController.cs",
+              "RelativeToolTip": "SimpleGameApi\\Controllers\\EstoqueController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T21:53:39.629Z"
+              "WhenOpened": "2025-04-15T00:03:35.307Z"
             }
           ]
         }

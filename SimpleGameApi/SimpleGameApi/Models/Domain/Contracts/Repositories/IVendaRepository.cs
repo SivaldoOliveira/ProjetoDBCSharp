@@ -5,5 +5,5 @@ namespace SimpleGameApi.Models.Domain.Contracts.Repositories;
 
 public interface IVendaRepository : IGenericRepository<Venda, int>
 {
-
+    Venda Get(int id);
 }
