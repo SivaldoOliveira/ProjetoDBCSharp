@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "xuwu+PFIpm2Q8QQrDmv4vLY+Pq3Dsd+K1r7cDwEX8Cc=",
+  "Hash": "fCfpfshs5Yh9BhFqq+AVxM6gUsUqwkJInd0ldWdefU8=",
   "Source": "SimpleGameApi",
   "BasePath": "_content/SimpleGameApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
