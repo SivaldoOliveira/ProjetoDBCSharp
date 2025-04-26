@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simol\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\SimpleGameApi.csproj": {}
+    "C:\\Users\\sival\\OneDrive\\SIMOL\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\SimpleGameApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simol\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\SimpleGameApi.csproj": {
+    "C:\\Users\\sival\\OneDrive\\SIMOL\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\SimpleGameApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simol\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\SimpleGameApi.csproj",
+        "projectUniqueName": "C:\\Users\\sival\\OneDrive\\SIMOL\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\SimpleGameApi.csproj",
         "projectName": "SimpleGameApi",
-        "projectPath": "C:\\Users\\Simol\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\SimpleGameApi.csproj",
-        "packagesPath": "C:\\Users\\Simol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simol\\OneDrive\\Cursos\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\obj\\",
+        "projectPath": "C:\\Users\\sival\\OneDrive\\SIMOL\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\SimpleGameApi.csproj",
+        "packagesPath": "C:\\Users\\sival\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sival\\OneDrive\\SIMOL\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Simol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sival\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -71,6 +71,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.36, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.2.8, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
