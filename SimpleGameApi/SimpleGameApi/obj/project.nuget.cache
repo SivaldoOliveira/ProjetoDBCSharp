@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pRJ+9LmA0vI=",
+  "dgSpecHash": "u0vCQ7Y3jUk=",
   "success": true,
   "projectFilePath": "C:\\Users\\sival\\OneDrive\\SIMOL\\ProjetoDBCSharp\\SimpleGameApi\\SimpleGameApi\\SimpleGameApi.csproj",
   "expectedPackageFiles": [
@@ -111,11 +111,7 @@
     "C:\\Users\\sival\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\sival\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
     "C:\\Users\\sival\\.nuget\\packages\\system.threading.tasks.extensions\\4.6.0\\system.threading.tasks.extensions.4.6.0.nupkg.sha512",
-    "C:\\Users\\sival\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\sival\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\sival\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\sival\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\sival\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+    "C:\\Users\\sival\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

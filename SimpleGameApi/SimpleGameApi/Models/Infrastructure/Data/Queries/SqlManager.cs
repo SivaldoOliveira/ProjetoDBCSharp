@@ -52,7 +52,7 @@ public static class SqlManager
                 break;
 
             case SqlQueryEnum.LISTAR_ALUGUEL:
-                sql = "SELECT Id, IdJogo, DataAlugel, DataDevolucao, Preco FROM Aluguel;";
+                sql = "SELECT Id, IdJogo, DataAluguel, DataDevolucao, Preco FROM Aluguel;";
                 break;
 
             case SqlQueryEnum.PESQUISAR_ALUGUEL:

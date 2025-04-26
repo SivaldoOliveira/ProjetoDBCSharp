@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleGameApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6b138f8d98cc2aefd46cba30d2606fa5243e308")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ef0c77ca1a221f467052105914114bebe13fd95")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleGameApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleGameApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

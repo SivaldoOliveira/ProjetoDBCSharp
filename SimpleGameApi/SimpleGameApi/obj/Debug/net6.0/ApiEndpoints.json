@@ -1,0 +1,359 @@
+[
+  {
+    "ContainingType": "SimpleGameApi.Controllers.AluguelController",
+    "Method": "Add",
+    "RelativePath": "api/Aluguel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "SimpleGameApi.Models.Domain.Entities.Aluguel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleGameApi.Controllers.AluguelController",
+    "Method": "GetAll",
+    "RelativePath": "api/Aluguel",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "SimpleGameApi.Models.Domain.Entities.Aluguel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SimpleGameApi.Controllers.AluguelController",
+    "Method": "Update",
+    "RelativePath": "api/Aluguel",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "SimpleGameApi.Models.Domain.Entities.Aluguel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleGameApi.Controllers.AluguelController",
+    "Method": "Delete",
+    "RelativePath": "api/Aluguel/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleGameApi.Controllers.AluguelController",
+    "Method": "Get",
+    "RelativePath": "api/Aluguel/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleGameApi.Controllers.EstoqueController",
+    "Method": "Add",
+    "RelativePath": "api/Estoque",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "SimpleGameApi.Models.Domain.Entities.Estoque",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleGameApi.Controllers.EstoqueController",
+    "Method": "GetAll",
+    "RelativePath": "api/Estoque",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "SimpleGameApi.Models.Domain.Entities.Estoque",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SimpleGameApi.Controllers.EstoqueController",
+    "Method": "Update",
+    "RelativePath": "api/Estoque",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "SimpleGameApi.Models.Domain.Entities.Estoque",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleGameApi.Controllers.EstoqueController",
+    "Method": "Delete",
+    "RelativePath": "api/Estoque/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleGameApi.Controllers.EstoqueController",
+    "Method": "Get",
+    "RelativePath": "api/Estoque/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleGameApi.Controllers.JogoController",
+    "Method": "Add",
+    "RelativePath": "api/Jogo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "SimpleGameApi.Models.Domain.Entities.Jogo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleGameApi.Controllers.JogoController",
+    "Method": "GetAll",
+    "RelativePath": "api/Jogo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "SimpleGameApi.Models.Domain.Entities.Jogo",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SimpleGameApi.Controllers.JogoController",
+    "Method": "Update",
+    "RelativePath": "api/Jogo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "SimpleGameApi.Models.Domain.Entities.Jogo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleGameApi.Controllers.JogoController",
+    "Method": "Delete",
+    "RelativePath": "api/Jogo/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleGameApi.Controllers.JogoController",
+    "Method": "Get",
+    "RelativePath": "api/Jogo/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleGameApi.Controllers.VendaController",
+    "Method": "Add",
+    "RelativePath": "api/Venda",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "SimpleGameApi.Models.Domain.Entities.Venda",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleGameApi.Controllers.VendaController",
+    "Method": "GetAll",
+    "RelativePath": "api/Venda",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "SimpleGameApi.Models.Domain.Entities.Venda",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SimpleGameApi.Controllers.VendaController",
+    "Method": "Update",
+    "RelativePath": "api/Venda",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "SimpleGameApi.Models.Domain.Entities.Venda",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleGameApi.Controllers.VendaController",
+    "Method": "Delete",
+    "RelativePath": "api/Venda/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleGameApi.Controllers.VendaController",
+    "Method": "Get",
+    "RelativePath": "api/Venda/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleGameApi.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[SimpleGameApi.WeatherForecast, SimpleGameApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

@@ -4,10 +4,11 @@ using SimpleGameApi.Models.Domain.Contracts.Base;
 using SimpleGameApi.Models.Domain.Contracts.Services;
 using SimpleGameApi.Models.Domain.Entities;
 using Microsoft.AspNetCore.Http;
+using RouteAttribute = Microsoft.AspNetCore.Mvc.RouteAttribute;
 
 namespace SimpleGameApi.Controllers;
 
-[Microsoft.AspNetCore.Mvc.Route("api/[controller]")]
+[Route("api/[controller]")]
 [ApiController]
 
 public class AluguelController : ControllerBase,
@@ -46,6 +47,7 @@ public class AluguelController : ControllerBase,
         return Ok(result);
     }
 
+    [HttpGet]
     public ActionResult<Aluguel> GetAll()
     {
         var result = _aluguelService.GetAll();
